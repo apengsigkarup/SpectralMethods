@@ -20,5 +20,5 @@ Make sure you have a Google account, since this give access to use Google Colab.
 2. Then hit File->Open Notebook.
 3. In the pop up window that opens, click on GitHub.
 4. Write https://github.com/apengsigkarup/SpectralMethods/Exercises and hit enter.
-5. Select the notebook you would like to open. For example, select "Exercises/01_Notebook_Fourier_Series_1D.ipynb".
+5. Select the notebook you would like to open. For example, select the 01_Notebook_Fourier_Series_1D.ipynb.
 
