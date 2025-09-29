@@ -16,7 +16,7 @@ In the Exercises/ directory there are some notebooks that contains selected prob
 ## Running the notebooks on Google Colab
 Make sure you have a Google account, since this give access to use Google Colab.
 
-1. Go to the Google Colab website and login with your Google account (if you are not already logged in).
+1. Go to the Google Colab website https://colab.research.google.com/notebooks/welcome.ipynb and login with your Google account (if you are not already logged in).
 2. Then hit File->Open Notebook.
 3. In the pop up window that opens, click on GitHub.
 4. Write 'https://github.com/apengsigkarup/SpectralMethods/' and hit enter.
